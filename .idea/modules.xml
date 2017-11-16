@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidArchitectureComponentsDemo.iml" filepath="$PROJECT_DIR$/AndroidArchitectureComponentsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_livedata/custom_livedata.iml" filepath="$PROJECT_DIR$/custom_livedata/custom_livedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room_demo/room_demo.iml" filepath="$PROJECT_DIR$/room_demo/room_demo.iml" />
+    </modules>
+  </component>
+</project>
